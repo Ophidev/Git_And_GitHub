@@ -1,4 +1,6 @@
 This is new feat
 and fixed file 2
 no gadbad in it
-one gadbad added
+	
+one new feature added
+
