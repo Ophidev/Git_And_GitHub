@@ -1,0 +1,8 @@
+Adding some content in the file 1
+and learning about the revert command
+of the git.
+
+<<<<<<< HEAD
+adding another content in file 1 and deleteting the above one
+=======
+>>>>>>> parent of 73de9a9 (adding content in file 1)
